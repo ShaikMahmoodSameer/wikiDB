@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+p, a{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+.ff1{
+    font-family: 'Bebas Neue', sans-serif;
+}
